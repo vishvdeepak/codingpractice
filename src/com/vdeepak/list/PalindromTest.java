@@ -1,4 +1,4 @@
-package com.valli.list;
+package com.vdeepak.list;
 
 public class PalindromTest {
     public static void main (String []a){
